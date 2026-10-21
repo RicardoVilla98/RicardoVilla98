@@ -1,7 +1,7 @@
-# <p align="center">👋 Hola, soy Ricardo Daniel Villa Velázquez</p>
+# <p align="center">👋 ¡Hola! Soy Ricardo Villa</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=650&lines=Digital+Product+Designer+%26+Systems+Engineer;AI+Automation+%26+Autonomous+Agents+Specialist;UI%2FUX+Architect+%2B+Generative+Media+Creator;Building+High-Performance+RAG+Engines" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=6366F1&center=true&vCenter=true&width=650&lines=Dise%C3%B1ador+Digital+%2B+Estudiante+de+Ingenier%C3%ADa+en+Sistemas;Creando+experiencias+UI%2FUX+memorables+e+intuitivas;Explorando+automatizaciones%2C+agentes+y+flujos+con+IA;Construyendo+puentes+entre+creatividad+y+c%C3%B3digo" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -21,90 +21,70 @@
 
 ---
 
-```yaml
-# 👨‍💻 profile.yaml
-name: "Ricardo Daniel Villa Velázquez"
-current_focus:
-  - "Designing high-conversion UI/UX digital products"
-  - "Engineering Agentic AI workflows & Hybrid RAG architectures"
-  - "Evaluating LLM outputs & multimodal systems (Outlier / Aether)"
-location: "Monterrey, NL, México 🇲🇽"
-education:
-  degree_1: "Lic. en Diseño UI/UX y Producto Digital (Titulado)"
-  degree_2: "Ingeniería en Sistemas Computacionales (En curso)"
-languages:
-  - "Español (Nativo)"
-  - "Inglés (Avanzado / C1 Proficient)"
-core_philosophy: "Merging creative design precision with rigorous software architecture."
-```
+### ✨ Un vistazo rápido sobre mí
+
+> 📍 Basado en **Monterrey, México 🇲🇽** · Apasionado por la tecnología que se siente natural de usar.
+
+- 🎨 **Diseño con propósito:** Titulado en **Diseño UI/UX y Producto Digital**, con más de 4 años transformando ideas complejas en interfaces limpias, estéticas y fáciles de navegar.
+- 💻 **Mente de ingeniería:** Actualmente cursando **Ingeniería en Sistemas Computacionales**, lo que me permite dialogar fluidamente entre el lenguaje visual y el código técnico.
+- 🤖 **Curiosidad por la IA:** Integro herramientas de inteligencia artificial en flujos de diseño, automatización de tareas y evaluación de modelos para equipos internacionales (como Outlier / Aether).
+- 💬 **Bilingüe:** Comunicación fluida en **español** (nativo) e **inglés** (avanzado) para colaborar con equipos globales sin fricción.
 
 ---
 
-## ⚡ Acerca de Mí / About Me
-
-Soy **Diseñador de Producto Digital** y estudiante de **Ingeniería en Sistemas Computacionales** en Monterrey, México. Cuento con más de **4 años de experiencia** uniendo el mundo visual de alta fidelidad (UI/UX, diseño web, sistemas de diseño) con la vanguardia tecnológica en **Inteligencia Artificial, Sistemas RAG y Automatización de Procesos**.
-
-- 🤖 **IA & LLMs**: Especialista en flujos generativos de imagen/video, agentes autónomos y evaluación de modelos de lenguaje para empresas de EE.UU. (Outlier / Aether).
-- 🎨 **Diseño & Maquetación**: Creación de experiencias web completas de principio a fin, optimización de interfaces de usuario y dirección de arte digital.
-- 🛠️ **Ingeniería & Calidad**: Certificado en Control de Calidad de Software (QA) y Bases de Datos, con enfoque en sistemas escalables, tipados y listos para producción.
-
----
-
-## 🚀 Arsenal Tecnológico / Tech Stack
+## 🛠️ Herramientas & Tecnologías que disfruto usar
 
 <div align="center">
 
-### 🤖 Inteligencia Artificial & Sistemas RAG
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
-![AI Agents](https://img.shields.io/badge/AI_Agents-FF6F00?style=for-the-badge&logo=robot&logoColor=white)
-![Qdrant](https://img.shields.io/badge/Qdrant-Vector_DB-DC2626?style=for-the-badge&logo=qdrant&logoColor=white)
-![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-8A2BE2?style=for-the-badge&logo=micro-blog&logoColor=white)
-
-### 🎨 Diseño UI/UX & Producto Digital
+### 🎨 Diseño & Experiencia de Usuario
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 ![Adobe InDesign](https://img.shields.io/badge/InDesign-FF3366?style=for-the-badge&logo=adobeindesign&logoColor=white)
-![Web Design](https://img.shields.io/badge/Web_Design-00C4CC?style=for-the-badge&logo=w3c&logoColor=white)
-![UI/UX](https://img.shields.io/badge/UI%2FUX_Architecture-4B0082?style=for-the-badge&logo=materialdesign&logoColor=white)
+![UI/UX](https://img.shields.io/badge/UI%2FUX_Design-8A2BE2?style=for-the-badge&logo=materialdesign&logoColor=white)
+![Web Design](https://img.shields.io/badge/Web_Layout-00C4CC?style=for-the-badge&logo=w3c&logoColor=white)
 
-### 💻 Ingeniería de Software & Entornos
-![Python](https://img.shields.io/badge/Python_3.11-3776AB?style=for-the-badge&logo=python&logoColor=white)
+### 🤖 Inteligencia Artificial & Flujos Modernos
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+![Generative Media](https://img.shields.io/badge/AI_Media-FF6F00?style=for-the-badge&logo=sparkles&logoColor=white)
+![Automation](https://img.shields.io/badge/Process_Automation-43A047?style=for-the-badge&logo=zapier&logoColor=white)
+![Qdrant](https://img.shields.io/badge/Qdrant_Vector_DB-DC2626?style=for-the-badge&logo=qdrant&logoColor=white)
+
+### 💻 Bases de Ingeniería & Software
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![QA & Testing](https://img.shields.io/badge/Software_QA-2E7D32?style=for-the-badge&logo=checkmarx&logoColor=white)
-![Databases](https://img.shields.io/badge/SQL_Databases-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Software QA](https://img.shields.io/badge/Quality_Assurance-2E7D32?style=for-the-badge&logo=checkmarx&logoColor=white)
+![SQL](https://img.shields.io/badge/Bases_de_Datos-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
 </div>
 
 ---
 
-## 🌟 Proyectos Destacados / Featured Projects
+## 🚀 Proyectos en los que he trabajado
 
 <table>
   <tr>
     <td width="50%">
       <h3 align="center">⚡ HyperFetch-RAG</h3>
       <p align="center">
-        <b>Enterprise Multimodal Knowledge Engine</b><br>
-        Motor RAG de alto rendimiento con recuperación híbrida (BM25 + Dense Qdrant), re-ranking neuronal con Cross-Encoder y extracción tabular de PDFs sin alucinaciones.
+        Un motor RAG multimodal diseñado para consultar manuales técnicos y PDFs con tablas sin alucinaciones, combinando búsqueda semántica y re-ranking inteligente.
       </p>
       <p align="center">
         <a href="https://github.com/RicardoVilla98/HyperFetch-RAG">
-          <img src="https://img.shields.io/badge/Ver_Repositorio-HyperFetch--RAG-6366F1?style=for-the-badge&logo=github&logoColor=white" />
+          <img src="https://img.shields.io/badge/Ver_Código-HyperFetch--RAG-6366F1?style=for-the-badge&logo=github&logoColor=white" />
         </a>
       </p>
     </td>
     <td width="50%">
-      <h3 align="center">🎨 Behance Portfolio</h3>
+      <h3 align="center">🎨 Portafolio de Diseño en Behance</h3>
       <p align="center">
-        <b>Digital Design & Visual Identity Showcase</b><br>
-        Portafolio visual de branding, sistemas de diseño web, interfaces UI/UX y creación multimedia potenciada con herramientas generativas.
+        Explora mis proyectos visuales de branding, maquetación digital y diseño de interfaces web enfocadas en usabilidad y estética limpia.
       </p>
       <p align="center">
         <a href="https://behance.net/ricardovilla11" target="_blank">
-          <img src="https://img.shields.io/badge/Explorar_Portafolio-Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white" />
+          <img src="https://img.shields.io/badge/Visitar_Portafolio-Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white" />
         </a>
       </p>
     </td>
@@ -113,29 +93,29 @@ Soy **Diseñador de Producto Digital** y estudiante de **Ingeniería en Sistemas
 
 ---
 
-## 💼 Experiencia Profesional Relevante
+## 💼 Experiencia y Camino Recorrido
 
-- 🚀 **Diseñador Digital & Especialista en IA (Independiente)** *(2024 – Actualidad)*  
-  Evaluación de modelos avanzados de IA para **Outlier / Aether** (EE.UU.), flujos de automatización y producción multimedia generativa.
-- ⚖️ **Diseñador Web y de Contenido** — *Farahi Law Firm, APC* (Los Ángeles, CA - Remoto) *(2022 – 2024)*  
-  Diseño, maquetación y redacción de sitios web completos de punta a punta, mejorando la usabilidad y conversión de leads.
-- 🎨 **Diseñador Gráfico** — *Pinturas La Sultana* *(2022)*  
-  Diseño de plataformas web, catálogos interactivos y comunicación visual de marca.
-- 🎓 **Diseñador UI (Prácticas)** — *UNISITE* *(2020 – 2022)*  
-  Diseño de pantallas, flujos y componentes visuales para plataformas educativas e-learning.
+- 🌟 **Diseñador Digital & Consultor de IA** *(2024 – Presente)*  
+  Proyectos independientes, generación de contenido multimedia para marcas y evaluación de calidad de modelos de IA para clientes en EE.UU. (Outlier / Aether).
+- ⚖️ **Diseñador Web y de Contenido** — *Farahi Law Firm, APC* (Remoto, Los Ángeles, CA) *(2022 – 2024)*  
+  Creación y mejora integral de sitios web para firma legal, abarcando estructura visual, redacción y optimización de experiencia de usuario.
+- 🎨 **Diseño Gráfico y Digital** — *Pinturas La Sultana* *(2022)*  
+  Desarrollo de catálogos digitales y material interactivo para presencia comercial.
+- 🎓 **Diseño de Interfaces (Prácticas)** — *UNISITE* *(2020 – 2022)*  
+  Diseño de pantallas y recursos visuales para plataforma de educación en línea.
 
 ---
 
-## 🎓 Educación & Certificaciones
+## 🎓 Formación y Aprendizaje Continuo
 
-- 🎓 **Lic. en Diseño UI/UX y Producto Digital** — *UNISITE* (Titulado, 2018 – 2021)
-- 🎓 **Ingeniería en Sistemas Computacionales** — *Universidad Politécnica de Apodaca* (2022 – Actualidad)
+- 🎓 **Licenciatura en Diseño UI/UX y Producto Digital** — *UNISITE* (Titulado)
+- 🎓 **Ingeniería en Sistemas Computacionales** — *Universidad Politécnica de Apodaca* (En curso)
 - 📜 **Control de Calidad de Software (QA)** — *Fundación Carlos Slim*
 - 📜 **Introducción a Bases de Datos** — *Universidad Tecmilenio*
 
 ---
 
-## 📊 GitHub Stats & Activity
+## 📊 Actividad en GitHub
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=RicardoVilla98&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
@@ -145,10 +125,10 @@ Soy **Diseñador de Producto Digital** y estudiante de **Ingeniería en Sistemas
 ---
 
 <p align="center">
-  <i>💡 "El buen diseño hace que la tecnología compleja se sienta natural e invisible."</i>
+  <i>"El buen diseño no solo se ve bien; hace que la tecnología se sienta sencilla, accesible y humana."</i>
 </p>
 
 <p align="center">
-  <b>¿Tienes un proyecto en mente o quieres colaborar?</b><br>
-  📩 Contáctame en <a href="mailto:ricardocontactovilla@gmail.com"><b>ricardocontactovilla@gmail.com</b></a> o vía <a href="https://linkedin.com/in/ricardo-villa98"><b>LinkedIn</b></a>
+  ¿Hablamos sobre un proyecto o una idea interesante? ☕<br>
+  Escríbeme a <a href="mailto:ricardocontactovilla@gmail.com"><b>ricardocontactovilla@gmail.com</b></a> o conectemos en <a href="https://linkedin.com/in/ricardo-villa98"><b>LinkedIn</b></a>.
 </p>
